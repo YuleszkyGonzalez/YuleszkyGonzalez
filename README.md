@@ -5,9 +5,7 @@ Estudiante de Ingieneria en Ciencias Informaticas en la UCI
 - [https://marketuci.onrender.com]
 - Colaboracion con Chichimokers
 
-## 🔧 Habilidades Principales
-
--     class MySkills:
+## 🔧 class MySkills:
 -        def __init__(self):
 -            self.cpp = True  # C++
 -            self.python = True
